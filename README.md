@@ -123,12 +123,6 @@ The objective of this project is to analyze the T20 World Cup 2024 using Databri
 4. **Automate Data Flow**:
     - Schedule the workflow to automate the data flow. Although not required for this project, automation can be achieved using the job run option in Databricks if the source data is streaming or live.
 
-## Repository Structure
-
-- `data/`: Contains the source CSV files.
-- `notebooks/`: Contains the Databricks notebooks for data ingestion, transformation, and analysis.
-- `sql_queries/`: Contains the SQL queries used in the dashboard.
-- `dashboard/`: Contains the dashboard files and configurations.
 
 ## Setup Instructions
 
