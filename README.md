@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # T20-World-Cup-2024-Analysis-Dashboard
 This project analyzes the T20 World Cup 2024 data using Databricks to create an interactive and insightful dashboard. Leveraging PySpark and PySQL, the project processes, analyzes, and visualizes data to provide comprehensive insights into team performances, player statistics, match outcomes, and tournament trends.
-=======
-# T20 World Cup 2024 Dashboard Project
 
 ## Overview
 
@@ -136,5 +133,3 @@ The objective of this project is to analyze the T20 World Cup 2024 using Databri
 4. Use the `T20Worldcup_DataTransformation` notebook to clean and transform the data, and store the clean data in the database.
 5. Use the Databricks dashboard to create the required visualizations using the provided SQL queries.
 6. Publish and schedule the dashboard for automated data refresh.
-
->>>>>>> 02672b1b29a04707b35ab1020c35ced4ad680c2e
