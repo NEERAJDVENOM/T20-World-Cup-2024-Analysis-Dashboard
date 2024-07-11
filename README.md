@@ -139,6 +139,3 @@ The objective of this project is to analyze the T20 World Cup 2024 using Databri
 5. Use the Databricks dashboard to create the required visualizations using the provided SQL queries.
 6. Publish and schedule the dashboard for automated data refresh.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
